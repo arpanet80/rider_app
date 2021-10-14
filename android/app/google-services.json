@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "546838758312",
+    "project_id": "taxialtoque-36c1a",
+    "storage_bucket": "taxialtoque-36c1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546838758312:android:c2170147271f5b84a8139d",
+        "android_client_info": {
+          "package_name": "com.altoque.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546838758312-41hpltvuhdvhjrppjnfeino1u1ksjou8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRMqU-0tXhf9mNpOp_zJtcCOeGlDeNq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546838758312-41hpltvuhdvhjrppjnfeino1u1ksjou8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546838758312:android:b1c5cbd8d554f550a8139d",
+        "android_client_info": {
+          "package_name": "com.example.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546838758312-41hpltvuhdvhjrppjnfeino1u1ksjou8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRMqU-0tXhf9mNpOp_zJtcCOeGlDeNq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546838758312-41hpltvuhdvhjrppjnfeino1u1ksjou8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
